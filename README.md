@@ -139,7 +139,19 @@ Este projeto é licenciado sob a **MIT License**.
 
 ---
 
+## 🔑 Painel de Licenciamento (Necessário)
+Para gerenciar licenças de forma centralizada, utilize o [Painel de Licenciamento](#).
+
+O painel permite:
+- Criar, editar e renovar licenças.
+- Controlar logs e auditoria de acessos.
+- Validar licenças de forma otimizada via cache.
+
+Se deseja utilizar o módulo sem verificação de licença, esta etapa pode ser ignorada.
+
+➡️ **Acesse o repositório do Painel de Licenciamento:** [Evolution License Panel](#)
+
 ## 🌐 Suporte
 
-Para suporte comercial, entre em contato através do [seu email ou website de suporte].
+Para suporte comercial, entre em contato através do elvis@ebyte.net.br.
 
