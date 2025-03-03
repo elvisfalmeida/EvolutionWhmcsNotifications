@@ -139,7 +139,7 @@ Este projeto é licenciado sob a **MIT License**.
 
 ---
 
-## 🔑 Painel de Licenciamento (Necessário)
+## 🔐 Painel de Licenciamento (Necessário)
 Para gerenciar licenças de forma centralizada, utilize o [Painel de Licenciamento](https://github.com/elvisfalmeida/Evolution-WHMCS-License-Panel-).
 
 O painel permite:
@@ -147,7 +147,14 @@ O painel permite:
 - Controlar logs e auditoria de acessos.
 - Validar licenças de forma otimizada via cache.
 
-Se deseja utilizar o módulo sem verificação de licença, esta etapa pode ser ignorada.
+### ⚠️ **Nota Importante**
+Se deseja utilizar o módulo **sem verificação de licença**, existem duas opções:
+1. **Editar o código-fonte** e remover manualmente as validações de licença espalhadas pelo sistema.
+2. **Solicitar uma versão simplificada** sem verificação de licença, que foi criada no início do projeto.
+
+Caso precise dessa versão, entre em contato comigo.
+
+
 
 ➡️ **Acesse o repositório do Painel de Licenciamento:** [Evolution License Panel](https://github.com/elvisfalmeida/Evolution-WHMCS-License-Panel-)
 
