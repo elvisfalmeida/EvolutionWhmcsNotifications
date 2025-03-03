@@ -83,6 +83,12 @@ Possui também:
      ```php
      define('EVOLUTION_WHATSAPP_LICENSE', 'SUA_CHAVE_DE_LICENCA_AQUI');
      ```
+
+4. **Configuração do Sistema**
+   - **Edite os arquivos do módulo para apontar para seu painel de licenciamento:**
+     - **Arquivo `evolutionwhatsapp.php`** → Linha **8**: Altere `https://license.meudominio.com.br/api/license_api.php` para o seu painel de licença.
+     - **Arquivo `whatsapp_common.php`** → Linha **7**: Altere `https://license.meudominio.com.br/api/license_api.php` para o seu painel de licença.
+    
 ---
 
 ## 💡 Configuração
